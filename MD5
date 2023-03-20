@@ -1,0 +1,17 @@
+92675017213345d14576ab6c39dfa6e4 *DESCRIPTION
+43440ea9b787173fee72628ccc0768cb *NAMESPACE
+3c9f01628c867f86998c580aeaed0fdf *NEWS.md
+f652dc9061be29cfae38412b1a81b9f2 *R/bonn-package.R
+9ba3dd18cda9c2cab175aab657c37b47 *R/get_data.R
+8b906da237fe8dacc1365c2ae9433e8e *R/get_geographies.R
+f9bde07c1cf32ce58413aa0edddfd1d5 *R/get_metadata.R
+c7e83308a60070b44e15c1e0f7f20636 *R/get_themes.R
+25db2e22f36329f81dd8ac65801c01ad *R/get_variables.R
+f748f3bd081e0c5a201a1e9e371ac618 *R/get_zeitbezuege.R
+fa368ba94eb9ad89081a970049b97733 *R/helper.R
+55ba7b14b5b444fe1e27b929650ebd65 *man/bonn-package.Rd
+a443eac6d02d2b3624f44ac1d6b5e0ab *man/get_data.Rd
+613a0732aeedeab0f5ddf68329de947a *man/get_geographies.Rd
+0cb3fce07000412d8ef6e9e0724ff5d4 *man/get_metadata.Rd
+e976a78b904d65e14900e639112140ba *man/get_themes.Rd
+1dc746d80bc7c44069b8b03ce8471769 *man/get_variables.Rd
